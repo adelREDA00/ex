@@ -1,0 +1,1 @@
+gsap.from(".h", {duration: 3, text: "COMING SOON",delay:1.6, ease: "none"});
